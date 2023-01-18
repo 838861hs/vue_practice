@@ -1,0 +1,20 @@
+{
+  "name": "vue2-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.7.11"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4",
+    "vite-plugin-vue2": "^2.0.3",
+    "vue-template-compiler": "^2.7.11"
+  }
+}
